@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jae-yoon Han
 - 👀 I’m interested in Back end and Embedded programming
-- 🌱 I’m currently learning JAVA, C++, JavaScript
-- 📫 How to reach me dkxmpower999@naver.com
+- 🌱 I’m currently learning JAVA, JavaScript
+- 📫 How to reach me jaeyoon.han97@gmail.com
 
 <!-- 💞️ I’m looking to collaborate on ... -->
 <!---
