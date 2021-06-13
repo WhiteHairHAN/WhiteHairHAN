@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jae-yoon Han
 - 👀 I’m interested in Back end and Embedded programming
-- 🌱 I’m currently learning JAVA, JavaScript
+- 🌱 I’m currently learning JAVA,
 - 📫 How to reach me jaeyoon.han97@gmail.com
 
 <!-- 💞️ I’m looking to collaborate on ... -->
